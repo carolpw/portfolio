@@ -227,10 +227,13 @@ export default function Index() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a 
-              href="mailto:contact@example.com" 
-              className="px-8 py-4 bg-white text-gray-900 rounded-xl hover:bg-gray-100 transform hover:scale-105 transition-all duration-300 font-medium"
+              href="mailto:lopezolea.c@gmail.com" 
+              className="px-8 py-4 bg-white text-gray-900 rounded-xl hover:bg-gray-100 transform hover:scale-105 transition-all duration-300 font-medium flex items-center justify-center gap-2"
             >
-              Get In Touch
+              <svg className="w-5 h-5 text-gray-700" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M16 12l-4-4-4 4m8 0v6a2 2 0 01-2 2H6a2 2 0 01-2-2v-6m16-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v4" />
+              </svg>
+              Email Me
             </a>
           </div>
         </div>
