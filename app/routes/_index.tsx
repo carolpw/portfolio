@@ -33,7 +33,9 @@ export default function Index() {
 
           <div className="flex flex-col sm:flex-row justify-center gap-4 pt-8 animate-fade-in-delay-3">
             <a 
-              href="#" 
+              href="https://github.com/carolpw" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="group px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl hover:from-blue-700 hover:to-purple-700 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl font-medium"
             >
               <span className="flex items-center justify-center gap-2">
@@ -44,7 +46,9 @@ export default function Index() {
               </span>
             </a>
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/carolina-lopez-olea/" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="group px-8 py-4 bg-white text-gray-800 rounded-xl border-2 border-gray-200 hover:border-blue-300 hover:bg-blue-50 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl font-medium"
             >
               <span className="flex items-center justify-center gap-2">
@@ -134,6 +138,7 @@ export default function Index() {
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">Python</span>
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">Django</span>
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">PostgreSQL</span>
+                <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">SQLite</span>
                 <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">REST APIs</span>
               </div>
             </div>
@@ -150,9 +155,9 @@ export default function Index() {
               </div>
               <div className="flex flex-wrap gap-2">
                 <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">Git</span>
+                <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">Fork</span>
                 <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">VS Code</span>
-                <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">Agile</span>
-                <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">Figma</span>
+                <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">Cursor</span>
               </div>
             </div>
 
